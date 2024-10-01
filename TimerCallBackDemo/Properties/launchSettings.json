@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "TimerCallBackDemo": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
